@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/dp_24"
+    android:height="@dimen/dp_24"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Гора левая -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M3,22 L10,10 L17,22 Z" />
+
+    <!-- Гора правая (на переднем плане) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M9,22 L16,12 L23,22 Z" />
+
+    <!-- Снежная вершина -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14.5,15 L16,12 L17.5,15 Z" />
+
+    <!-- Река/вода -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M5,20 Q8,18 12,20 Q16,22 19,19 L19,22 L5,22 Z" />
+
+</vector>
