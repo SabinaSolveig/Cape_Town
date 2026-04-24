@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/dp_24"
+    android:height="@dimen/dp_24"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Ножка бокала -->
+    <path
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:pathData="M12,14 L12,20" />
+
+    <!-- Основание -->
+    <path
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:pathData="M9,20 L15,20" />
+
+    <!-- Чаша бокала -->
+    <path
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:pathData="M9,6 Q12,14 15,6" />
+
+    <!-- Вино -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M10,9 Q12,13 14,9 Z" />
+
+</vector>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/dp_24"
+    android:height="@dimen/dp_24"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Гора (треугольник) -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M4,22 L12,8 L20,22 Z" />
+
+    <!-- Снежная вершина -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,14 L12,8 L14,14 Z" />
+
+    <!-- Флагшток -->
+    <path
+        android:strokeColor="#795548"
+        android:strokeWidth="2"
+        android:pathData="M12,4 L12,14" />
+
+    <!-- Флаг -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M12,4 L18,6 L12,8 Z" />
+
+</vector>

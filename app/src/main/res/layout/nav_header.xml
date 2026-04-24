@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/dp_16"
+    android:background="?attr/colorPrimaryContainer">
+
+    <ImageView
+        android:layout_width="@dimen/dp_64"
+        android:layout_height="@dimen/dp_64"
+        android:src="@drawable/ic_cape_town"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Medium"
+        android:layout_marginBottom="@dimen/dp_8"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cape_town"
+        android:textSize="@dimen/text_18"
+        android:textStyle="bold"
+        android:textColor="?attr/colorOnPrimaryContainer"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cape_town_desc"
+        android:textSize="@dimen/text_14"
+        android:textColor="?attr/colorOnPrimaryContainer"/>
+</LinearLayout>

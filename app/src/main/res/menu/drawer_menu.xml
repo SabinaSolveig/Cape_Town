@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/ic_home_simple"
+            android:title="@string/home_title" />
+        <item
+            android:id="@+id/navigation_nature"
+            android:icon="@drawable/ic_nature_simple"
+            android:title="@string/category_nature_short" />
+        <item
+            android:id="@+id/navigation_culture"
+            android:icon="@drawable/ic_culture_simple"
+            android:title="@string/category_culture_short" />
+        <item
+            android:id="@+id/navigation_wine"
+            android:icon="@drawable/ic_wine_simple"
+            android:title="@string/category_wine_short" />
+        <item
+            android:id="@+id/navigation_adventure"
+            android:icon="@drawable/ic_adventure_simple"
+            android:title="@string/category_adventure_short" />
+        <item
+            android:id="@+id/navigation_entertainment"
+            android:icon="@drawable/ic_entertainment_simple"
+            android:title="@string/category_entertainment_short" />
+    </group>
+    <group>
+        <item
+            android:id="@+id/navigation_about"
+            android:icon="@drawable/ic_info"
+            android:title="@string/about_title" />
+        <item
+            android:id="@+id/navigation_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings_title" />
+    </group>
+</menu>

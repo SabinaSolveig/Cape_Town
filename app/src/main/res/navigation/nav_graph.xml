@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.capetown.ui.HomeFragment"
+        android:label="@string/home_title" />
+
+    <fragment
+        android:id="@+id/navigation_nature"
+        android:name="com.example.capetown.ui.CategoryFragment">
+        <argument
+            android:name="categoryId"
+            app:argType="string"
+            android:defaultValue="nature" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_culture"
+        android:name="com.example.capetown.ui.CategoryFragment">
+        <argument
+            android:name="categoryId"
+            app:argType="string"
+            android:defaultValue="culture" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_wine"
+        android:name="com.example.capetown.ui.CategoryFragment">
+        <argument
+            android:name="categoryId"
+            app:argType="string"
+            android:defaultValue="wine" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_adventure"
+        android:name="com.example.capetown.ui.CategoryFragment">
+        <argument
+            android:name="categoryId"
+            app:argType="string"
+            android:defaultValue="adventure" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_entertainment"
+        android:name="com.example.capetown.ui.CategoryFragment">
+        <argument
+            android:name="categoryId"
+            app:argType="string"
+            android:defaultValue="entertainment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_detail"
+        android:name="com.example.capetown.ui.PlaceDetailFragment">
+        <argument
+            android:name="placeId"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="com.example.capetown.ui.AboutFragment"
+        android:label="@string/about_title"/>
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.capetown.ui.SettingsFragment"
+        android:label="@string/settings_title"/>
+
+</navigation>

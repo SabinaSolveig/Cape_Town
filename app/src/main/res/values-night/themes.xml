@@ -1,7 +1,44 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.CapeTown" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for night mode. -->
+    <style name="Theme.CapeTown" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_500</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/gray_900</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/gray_800</item>
+        <item name="colorOnSurfaceVariant">@color/gray_300</item>
+
+        <!-- Background colors -->
+        <item name="colorOnBackground">@color/white</item>
+
+        <!-- Error colors -->
+        <item name="colorError">@color/red_300</item>
+        <item name="colorOnError">@color/black</item>
+
+        <!-- Container colors -->
+        <item name="colorPrimaryContainer">@color/purple_700</item>
+        <item name="colorOnPrimaryContainer">@color/purple_100</item>
+        <item name="colorSecondaryContainer">@color/teal_700</item>
+        <item name="colorOnSecondaryContainer">@color/teal_100</item>
+        <item name="colorTertiaryContainer">@color/orange_700</item>
+        <item name="colorOnTertiaryContainer">@color/orange_100</item>
+
+
+        <!-- Outline -->
+        <item name="colorOutline">@color/gray_600</item>
+        <item name="colorOutlineVariant">@color/gray_700</item>
     </style>
 </resources>

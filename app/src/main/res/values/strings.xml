@@ -1,3 +1,119 @@
 <resources>
     <string name="app_name">Cape Town</string>
+
+    <string name="category_nature_short">Nature</string>
+    <string name="category_culture_short">Culture</string>
+    <string name="category_wine_short">Winemaking</string>
+    <string name="category_adventure_short">Activities</string>
+    <string name="category_entertainment_short">Recreation</string>
+
+    <string name="category_nature">Nature and panoramic views</string>
+    <string name="category_culture">History and culture</string>
+    <string name="category_wine">Winemaking and gastronomy</string>
+    <string name="category_adventure">Adventure</string>
+    <string name="category_entertainment">City life</string>
+
+    <string name="category_desc">Category description</string>
+
+    <string name="category_nature_desc">These are the city calling cards, attracting millions of tourists to South Africa. Here you will see breathtaking landscapes and unique nature.</string>
+    <string name="category_culture_desc">Attractions that tell the story of South Africa complex past and present.</string>
+    <string name="category_wine_desc">Cape Town is surrounded by some of the most picturesque vineyards in the world.</string>
+    <string name="category_adventure_desc">For those who want to get an adrenaline rush or just spend time actively in nature.</string>
+    <string name="category_entertainment_desc">Cape Towns contemporary vibe is centred on the water and in the city center.</string>
+
+    <string name="nature_place1_title">Table Mountain</string>
+    <string name="nature_place1_desc">Located 7 km from the center of Cape Town, Table Mountain towers over the city — it is the citys main symbol, one of the Seven Natural Wonders of the World, and the best viewpoint. It gave its name to an entire class of similar mountains, and its recognizable silhouette adorns the flag of Cape Town. It is simply impossible to miss this landmark — you can see it as you fly into the city and from any point within it. From its flat, table-like summit, you get a view of the metropolis and its picturesque surroundings: the mountain range, the ocean coastline, Table Bay, and Robben Island.</string>
+
+    <string name="nature_place2_title">Lions Head</string>
+    <string name="nature_place2_desc">Lions Head is a picturesque mountain standing 669–670 meters tall in Cape Town, located between Table Mountain and Signal Hill. Thanks to its unique conical shape and the surrounding cliffs, the mountain resembles the head of a lion. It is part of the Table Mountain National Park and is known for its conical form, panoramic views of the Atlantic coastline, and a popular hiking trail that takes about 1.5–2 hours.</string>
+
+    <string name="nature_place3_title">Cape Point</string>
+    <string name="nature_place3_desc">Cape Point is a rocky headland in the southeast of the Cape Peninsula (60 km from Cape Town), forming part of the Table Mountain National Park. This location is known for its dramatic cliffs, an old lighthouse at the summit, rich wildlife, and is considered one of the southernmost points of Africa, offering breathtaking views of the ocean. At the top of the cliff (about 200 meters above sea level) stands the old lighthouse, which can be reached on foot or via the "Flying Dutchman" funicular. A newer, more functional lighthouse has been built nearby.</string>
+
+    <string name="nature_place4_title">Cape of Good Hope</string>
+    <string name="nature_place4_desc">Cape of Good Hope – a legendary place that symbolizes not only an important sea route but also impressive wildlife at the edge of the earth. A famous scenic headland historically regarded as the meeting point of the Atlantic and Indian Oceans. This is the most southwestern point of Africa, forming part of the Table Mountain National Park. The location is known for its harsh winds, lighthouse, unique fauna (ostriches, baboons) and beautiful views.</string>
+
+    <string name="nature_place5_title">Boulders Beach</string>
+    <string name="nature_place5_desc">Boulders Beach – a beach with penguins – is unique to Cape Town, South Africa. The colony only emerged in 1982, but today it already numbers several thousand birds. There are several sections of the coastline where swimming is allowed. The penguins, however, usually gather on the main beach, which is off-limits to people. You can only walk along a wooden boardwalk (entry $10) to a viewing platform. That said, sometimes you might come across the odd penguin even in the free-access areas.</string>
+
+    <string name="culture_place1_title">District Six Museum</string>
+    <string name="culture_place1_desc">The District Six Museum in Cape Town is an emotional memorial dedicated to the vibrant multicultural community that was violently destroyed during the apartheid era (1960s–70s). The museum preserves the stories of over 60,000 people whose homes were demolished, telling about their lives, struggle, and memory.</string>
+
+    <string name="culture_place2_title">Robben Island</string>
+    <string name="culture_place2_desc">Robben Island is a former maximum-security prison located 12 km off the coast of Cape Town. During the apartheid years (especially from the 1960s until 1991), political prisoners who fought against the regime of racial segregation were held there. The most famous inmate was Nelson Mandela, who spent 18 of his 27 years of imprisonment here. The prisoners were forced to quarry stone in the limestone mine, which caused many to develop lung problems. The cells were damp and cold, and prisoners slept on thin mats on concrete floors. Today, the island is a memorial museum and a UNESCO World Heritage Site. Its tours are often led by former political prisoners, which makes the narrative particularly poignant.</string>
+
+    <string name="culture_place3_title">Iziko South African Museum</string>
+    <string name="culture_place3_desc">The South African Museum, located in the center of Cape Town, was founded by Lord Charles Somerset in 1825, becoming the second research institution in the country. It has the largest collection of zoological, paleontological, and archaeological exhibits in Africa. It is widely known as an educational and enlightenment institution: the museums collections, which include specimens of many extinct and living forms of life in South Africa, as well as materials on the cultural heritage of the indigenous population, are studied by scientists and students, and are used in public educational events and exhibitions. The museum complex also features a modern planetarium. The museum receives around 400,000 visitors annually and is one of Cape Towns main tourist attractions.</string>
+
+    <string name="culture_place4_title">Castle of Good Hope</string>
+    <string name="culture_place4_desc">The Castle of Good Hope is the oldest surviving colonial building and the oldest fortification in the Republic of South Africa. It is located in the center of Cape Town, near the Victoria and Alfred Waterfront. The castle was built by the Dutch East India Company between 1666 and 1679. Despite its name, "Good Hope," the fortress was built not so much as a symbol of optimism, but rather as a practical defensive structure. It was meant to protect the recently founded Cape Town (modern-day Cape Town) from attacks by the British, French, and local tribes, as well as to serve as a main replenishment point for supplies of water, food, and fresh meat for Dutch ships on their route from Europe to India. Interestingly, the castle was not built from local stone, but from bricks and blocks brought from the Netherlands as ballast on ships. Later, stone was quarried from the foot of Table Mountain. The castle is in the shape of a regular five-pointed star — a classic example of 17th-century fortification. The five bastions are named after the titles of King William III of Orange: Nassau, Katzenelenbogen, Orange, Buurgh, and Leiden. Guard towers are located at the points of the star. A deep moat was dug around the castle, but it was never filled with water, as its purpose was to force enemy artillery to fire at a steeper angle and to prevent tunneling.</string>
+
+    <string name="wine_place1_title">Constantia Wine Region</string>
+    <string name="wine_place1_desc">Constantia is the oldest wine region in South Africa (dating back to 1685), located in the suburbs of Cape Town. It is famous for its historic Cape Dutch manor houses, picturesque landscapes, and premium wines, including the legendary dessert wine Vin de Constance. It is the oldest working wine estate in South Africa and an open-air museum. On the estate, you can: explore the historic Cape Dutch manor house with its characteristic gables, visit the Cloete wine cellar, built in 1791 and featuring a bas-relief by the sculptor Anton Anreith, and taste the famous sweet wine Grand Constance, which has won gold medals at international competitions.</string>
+
+    <string name="wine_place2_title">Stellenbosch</string>
+    <string name="wine_place2_desc">The vineyards of Stellenbosch are the heart of South African winemaking. The region began to develop in 1685, when the first vines were planted by Simon van der Stel. Today, there are more than 150 wine estates here, many of which have premium status. Stellenbosch is the South African Bordeaux or Tuscany, a place where 17th-century traditions meet world-class modern winemaking.</string>
+
+    <string name="wine_place3_title">Franschhoek</string>
+    <string name="wine_place3_desc">The village of Franschhoek ("French corner"), located in the Cape Winelands of South Africa, is known as the restaurant and wine capital of the country. On its shady streets, you will find numerous galleries and antique shops, while on the hills beyond the town, cascades of vineyards planted over 300 years ago are visible. You can go wine tasting, go fishing, or simply take a walk. The Huguenot Memorial Museum is dedicated to the first settlers who fled France to escape religious persecution.</string>
+
+    <string name="wine_place4_title">Paarl</string>
+    <string name="wine_place4_desc">Paarl is the largest center of the local wine region and the most famous of South Africas winemaking centers, bringing the city the majority of its income. It is in Paarl that KWV is located — an organization that for a long time had an almost monopoly control over the production and export of most South African wines. Since KWV produced wines exclusively for export and due to the growing demands of the South African market, the center of winemaking began to shift southward, to Stellenbosch. After the collapse of apartheid, toward the end of the 20th century, when export restrictions were lifted from the country, a new boom in wine production occurred in Paarl, which now became available to South African consumers as well.</string>
+
+    <string name="adventure_place1_title">Shark diving</string>
+    <string name="adventure_place1_desc">This is an opportunity to see marine predators in their natural habitat. You will get to know several species of sharks while diving in the waters of two oceans: the Indian and the Atlantic! You will encounter oceanic blacktip sharks, tiger sharks, blue sharks, mako sharks, sevengill sharks, and the bronze whaler shark.</string>
+
+    <string name="adventure_place2_title">Paragliding</string>
+    <string name="adventure_place2_desc">A popular adventure activity offering tandem flights with views of Table Mountain and the coastline. Flights are conducted in tandem with an instructor and require no experience. Depending on the wind, takeoff is possible from Signal Hill or the nearby Lions Head rock, offering breathtaking views.</string>
+
+    <string name="adventure_place3_title">Surfing in Muizenberg</string>
+    <string name="adventure_place3_desc">A majestic beach not far from Cape Town. White sand stretches for several kilometers. The waves are always very strong, so surfers outnumber bathers. It is a popular spot for surfing among locals and tourists. An excellent place to try surfing for the first time. Many surf schools offer individual and group lessons. Here you can find waves not only for beginners but also for intermediate and advanced surfers. In addition, Muizenberg is famous for its picturesque views of the mountains and the ocean, as well as numerous restaurants and cafés where you can grab a bite to eat after surfing and simply enjoy the atmosphere.</string>
+
+    <string name="adventure_place4_title">Hiking on Table Mountain</string>
+    <string name="adventure_place4_desc">Hiking (trekking) on Table Mountain is one of the most popular adventure activities in Cape Town. The mountain rises 1,086 meters above sea level and offers dozens of routes of varying difficulty — from easy walks to serious rock climbs. It is an unforgettable experience, but it requires preparation, respect for the weather, and common sense. Start early in the morning, bring enough water, and enjoy the panoramas of Cape Town that unfold at every step!</string>
+
+    <string name="entertainment_place1_title">The Victoria and Alfred Waterfront</string>
+    <string name="entertainment_place1_desc">The Victoria and Alfred Waterfront in Cape Town was once an ordinary port area with docks, which began construction in the 1860s and was dedicated to Queen Victoria of England and her son. Towards the end of the 20th century, the dilapidated buildings were restored, given a new, modern purpose – and the area came alive, becoming one of the most touristic and popular places in the legislative capital of South Africa. The concentration of shops and cafés at the Waterfront is very high. Here you can find both expensive boutiques and affordable shops, as well as restaurants serving exotic dishes and cafés with familiar burgers. The cultural aspect is also rich here. Several museums are located at the Waterfront, where you can learn about African history or the marine world of South Africa. Since the port has not lost its original purpose but only slightly changed it, you can take an excursion boat from here to various destinations. The Victoria and Alfred Waterfront in Cape Town is best seen… from above. There is a large Ferris wheel in the area from which you can admire the oldest harbor in South Africa and take great photos of Table Mountain towering proudly above it.</string>
+
+    <string name="entertainment_place2_title">Two Oceans Aquarium</string>
+    <string name="entertainment_place2_desc">The Two Oceans Aquarium is located at the Victoria and Alfred Waterfront in Cape Town. Its uniqueness lies in showcasing the marine life of two oceans simultaneously — the Atlantic and the Indian, which meet at the Cape of Good Hope. The aquarium is home to over 3,000 living creatures, including sharks, sea turtles, penguins, vibrant tropical fish, and jellyfish. Key highlights include a large predator tank (with tuna, turtles, and sharks), a touch pool (where you can feel starfish and crabs), and a turtle rescue program. It is both an entertainment center and a research institution, perfect for a family visit.</string>
+
+    <string name="entertainment_place3_title">Long Street</string>
+    <string name="entertainment_place3_desc">Long Street is one of the most famous and vibrant streets in central Cape Town. It is known for it is colorful Victorian buildings with cast-iron balconies, beautifully preserved since the 19th century. It is the citys main social artery, lined with numerous bars, clubs, restaurants, hostels, shops, and street stalls. By day, Long Street attracts shopping and architecture lovers; by night, it turns into the epicentre of Cape Towns nightlife. The street is also famous for its bohemian atmosphere and street art.</string>
+
+    <string name="entertainment_place4_title">Cape Town Stadium</string>
+    <string name="entertainment_place4_desc">Cape Town Stadium, also known as the new Green Point Stadium, is a football and multi-purpose sports venue located in Cape Town, South Africa. It was built to replace the old Green Point Stadium, which had a capacity of 18,000 seats, and to create a larger 55,000-seat arena as part of the preparations for the 2010 FIFA World Cup, which was hosted by South Africa. The old stadium was demolished in 2007, and construction of the new stadium was completed on schedule in December 2009, just a few months before the first World Cup match.</string>
+
+
+    <string name="version">Version 1.0</string>
+    <string name="home_title">Home</string>
+    <string name="about_title">About app</string>
+    <string name="settings_title">Settings</string>
+    <string name="no_places_found">No locations found</string>
+    <string name="scroll_to_top">Scroll up</string>
+    <string name="about_logo_description">Application Logo</string>
+    <string name="about_information">Information</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_developer_name">Jafarova Sabina</string>
+    <string name="about_thanks">Thank you</string>
+    <string name="about_thanks_text">Thanks to everyone who contributed to the creation of this app.</string>
+    <string name="about_copyright">© 2026 Cape Town Guide. All rights reserved.</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="greetings">Welcome to Cape Town!</string>
+    <string name="greetings_desc">Discover the best places in the city</string>
+    <string name="details">Details</string>
+    <string name="cape_town">Cape Town Guide</string>
+    <string name="cape_town_desc">Discover the best places.</string>
+
+
+    <plurals name="places_count">
+        <item quantity="one">%d place</item>
+        <item quantity="few">%d places</item>
+        <item quantity="many">%d places</item>
+        <item quantity="other">%d places</item>
+    </plurals>
+
 </resources>

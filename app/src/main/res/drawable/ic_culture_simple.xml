@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/dp_24"
+    android:height="@dimen/dp_24"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Греческая колонна (символ архитектуры/культуры) -->
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M5,22 L5,6 L8,6 L8,22 Z" />
+
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M16,22 L16,6 L19,6 L19,22 Z" />
+
+    <!-- Крыша/фронтон (треугольник) -->
+    <path
+        android:fillColor="#AB47BC"
+        android:pathData="M2,6 L12,2 L22,6 Z" />
+
+    <!-- Основание (ступеньки) -->
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M3,22 L21,22 L21,20 L3,20 Z" />
+
+</vector>
